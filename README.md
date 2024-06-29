@@ -3,6 +3,7 @@ De RH para a tecnologia, estou mergulhando de cabeça no desenvolvimento de soft
 
 ## Estou estudando:
 - Backend com Java em um Bootcamp do Santander em parceria com a DIO
+- Programa de educação e empregabilidade ONE - Oracle Next Education
 - Desenvolvimento Android com Kotlin na escola EBAC
 
 ## Contatos:
