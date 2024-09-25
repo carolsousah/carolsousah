@@ -10,7 +10,7 @@ Em transição de carreira, saindo da área de Treinamento e Desenvolvimento par
 ## Contatos:
 - [Linkedin](https://www.linkedin.com/in/carol-sousa/)
 
-## Insignias conquistadas:
+## Insígnias conquistadas:
 <img src="https://github.com/user-attachments/assets/498e52dc-1763-4c11-80af-00521d498aa3" alt="Insígnia" width="150"/>
 
 
