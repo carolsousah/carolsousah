@@ -1,9 +1,9 @@
 ## Olá:)
-De RH para a tecnologia, estou mergulhando de cabeça no desenvolvimento de software. Com o objetivo de documentar minha jornada de aprendizado, este GitHub será o repositório dos exercícios e projetos desenvolvidos ao longo dos meus estudos! 🚀
+Em transição de carreira, saindo da área de Treinamento e Desenvolvimento para explorar o mundo da tecnologia. Com o objetivo de documentar minha jornada de aprendizado, este GitHub será o repositório dos exercícios e projetos desenvolvidos ao longo dos meus estudos! 🚀
 
 ## Estou estudando:
 - Bacharelado de Tecnologia da Informação - UNIVESP
-- Programa de educação e empregabilidade ONE - Oracle Next Education + Alura
+- Formação Front-End com IA + Formação Soft Skills - Oracle Next Education + Alura
 - Programa de Capacitação para certificação AWS - Escola da Nuvem
 - Desenvolvimento Android em Kotlin - EBAC
 
