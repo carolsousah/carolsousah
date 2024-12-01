@@ -4,7 +4,6 @@ Em transição de carreira, saindo da área de Treinamento e Desenvolvimento par
 ## Estou estudando:
 - Bacharelado de Tecnologia da Informação - UNIVESP
 - Formação Front-End com IA + Formação Soft Skills - Oracle Next Education + Alura
-- Programa de Capacitação para certificação AWS - Escola da Nuvem
 - Desenvolvimento Android em Kotlin - EBAC
 
 ## Contatos:
