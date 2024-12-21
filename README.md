@@ -4,7 +4,6 @@ Em transição de carreira, saindo da área de Treinamento e Desenvolvimento par
 ## Estou estudando:
 - Bacharelado de Tecnologia da Informação - UNIVESP
 - Formação Front-End com IA + Formação Soft Skills - Oracle Next Education + Alura
-- Bootcamp Ri Happy - Front-end do Zero - DIO
 - Inteligência Artificial aplicada à Visão Computacional - QualiFacti
 
 ## Contatos:
