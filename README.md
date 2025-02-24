@@ -4,7 +4,6 @@ Em transição de carreira, saindo da área de Treinamento e Desenvolvimento par
 ## Estou estudando:
 - Bacharelado de Tecnologia da Informação - UNIVESP
 - Formação Front-End com IA + Formação Soft Skills - Oracle Next Education + Alura
-- Inteligência Artificial aplicada à Visão Computacional - QualiFacti
 
 ## Contatos:
 - [Linkedin](https://www.linkedin.com/in/carol-sousa/)
